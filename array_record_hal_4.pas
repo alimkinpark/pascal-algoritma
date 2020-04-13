@@ -51,6 +51,12 @@ Begin
         writeln('----------------------------------------------------');
 End;
 
+{
+    Nama    : Mohamad Nuralim;
+    Kelas   : X2G;
+    NPM     : 201943501627;
+}
+
 {Program utama}
 Begin
 clrscr;

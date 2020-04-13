@@ -6,6 +6,12 @@ var
 	i, j, k, temp, n : integer;
 	a, b, c : array[1..1000] of integer;
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 
 Begin
 	clrscr; textColor(12);

@@ -36,6 +36,12 @@ var
 	ketemu : word;
 	lagi : char;
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin
 	lagi := 'Y';
 	while upcase(lagi) = 'Y' do

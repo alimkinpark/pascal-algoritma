@@ -56,6 +56,12 @@ function max( d : array of integer; n : integer) : integer;
 		max := temp;
 	End; {end of function}
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin { program utama }
 	inputData;
 	writeLn('Banyaknya bilangan : ', n);

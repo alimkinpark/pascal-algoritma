@@ -42,6 +42,12 @@ begin
         writeln;
 end;
 
+{
+        Nama    : Mohamad Nuralim;
+        Kelas   : X2G;
+        NPM     : 201943501627;
+}
+
 {Perkalian matriks}
 For I:= 1 to M do
 Begin

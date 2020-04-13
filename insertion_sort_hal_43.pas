@@ -6,6 +6,12 @@ var
 	i, j, k, temp, n : integer;
 	a, b, c : array[1..1000] of integer;
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin
 	clrscr; textColor(12);
 	write('Banyaknya elemen array : '); readln(n);
@@ -23,7 +29,7 @@ Begin
 	for i := 1 to n do write(a[i], ' ');
 	writeLn(); textColor(15); writeLn();
 
-	writeLn('Proses pengurutan isertion : ');
+	writeLn('Proses pengurutan insertion : ');
 	for i := 2 to n do
 		Begin
 			temp := a[i];

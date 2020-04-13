@@ -33,6 +33,12 @@ Begin
 		total := total + a[i];
 End; {end of procedure}
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin {program utama}
 	inputData; {panggil prosedur inputData}
 	writeLn('Banyaknya bilangan : ', n);

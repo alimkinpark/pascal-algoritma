@@ -6,6 +6,12 @@ var
 	i, j, k, temp, imaks, n : integer;
 	a, b, c : array[1..1000] of integer;
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin
 	clrscr; textColor(10);
 	write('Banyaknya Elemen array: '); readln(n);

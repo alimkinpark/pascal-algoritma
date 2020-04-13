@@ -7,6 +7,12 @@ jumlah: longint;
 rata: real;
 A: array[0..100] of integer;
 
+{
+        Nama    : Mohamad Nuralim;
+        Kelas   : X2G;
+        NPM     : 201943501627;
+}
+
 begin
 clrscr;
 //input data

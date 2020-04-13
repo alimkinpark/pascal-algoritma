@@ -42,6 +42,12 @@ Begin
 
 End; {end of procedure}
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 {program utama}
 Begin
 	inputData( a, n); {panggil prosedur input data}
