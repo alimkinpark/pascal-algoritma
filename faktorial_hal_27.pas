@@ -16,6 +16,12 @@ var
 	n : byte;
 	f : longint;
 
+{
+	Nama	: Mohamad nuralim;
+	Kelas	: X2G
+	NPM		: 201943501627
+}
+
 Begin
 	write('Berapa faktorial ');
 	readln(n);

@@ -15,8 +15,14 @@ function fibonacci ( n : word ) : word;
 var
 	n : word;
 
+{
+	Nama 	: Mohamad Nuralim;
+	Kelas 	: X2G;
+	NPM 	: 201943501627;
+}
+
 Begin
-	write('Suku ke berapa? '); readln(n);
+	write('Suku ke berapa ? '); readln(n);
 	writeLn('Nilai suku ke ', n, ' adalah = ', fibonacci(n));
 	readln();
 End.
